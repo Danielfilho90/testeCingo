@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # logstorage
 Teste de candidatos para vagas de desenvolvedores para Cingo (www.cingo.com.br).
 
@@ -35,3 +36,6 @@ Teste de candidatos para vagas de desenvolvedores para Cingo (www.cingo.com.br).
   "content" : "org.hibernate.tool.hbm2ddl.TableMetadata: <init> columns: [neoid]",
   "occurrences" : 125
 }]
+=======
+# testeCingo
+>>>>>>> b8c195705d65140d028d14f398a13bf2a421b373
